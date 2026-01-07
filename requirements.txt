@@ -8,3 +8,4 @@ torch
 datasets
 vllm
 transformers
+codecarbon
